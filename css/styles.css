@@ -11421,14 +11421,14 @@ header.masthead h1, header.masthead .h1 {
   }
 }
 
-#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl, #portfolio .container-xxl {
+#news .container-fluid, #news .container-sm, #news .container-md, #news .container-lg, #news .container-xl, #news .container-xxl {
   max-width: 1920px;
 }
-#portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box, #portfolio .container-xxl .portfolio-box {
+#news .container-fluid .news-box, #news .container-sm .news-box, #news .container-md .news-box, #news .container-lg .news-box, #news .container-xl .news-box, #news .container-xxl .news-box {
   position: relative;
   display: block;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption, #portfolio .container-sm .portfolio-box .portfolio-box-caption, #portfolio .container-md .portfolio-box .portfolio-box-caption, #portfolio .container-lg .portfolio-box .portfolio-box-caption, #portfolio .container-xl .portfolio-box .portfolio-box-caption, #portfolio .container-xxl .portfolio-box .portfolio-box-caption {
+#news .container-fluid .news-box .news-box-caption, #news .container-sm .news-box .news-box-caption, #news .container-md .news-box .news-box-caption, #news .container-lg .news-box .news-box-caption, #news .container-xl .news-box .news-box-caption, #news .container-xxl .news-box .news-box-caption {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -11444,15 +11444,15 @@ header.masthead h1, header.masthead .h1 {
   transition: opacity 0.25s ease;
   text-align: center;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-category, #portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-category {
+#news .container-fluid .news-box .news-box-caption .project-category, #news .container-sm .news-box .news-box-caption .project-category, #news .container-md .news-box .news-box-caption .project-category, #news .container-lg .news-box .news-box-caption .project-category, #news .container-xl .news-box .news-box-caption .project-category, #news .container-xxl .news-box .news-box-caption .project-category {
   font-family: "Merriweather Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 0.85rem;
   font-weight: 600;
   text-transform: uppercase;
 }
-#portfolio .container-fluid .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-sm .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-md .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-lg .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xl .portfolio-box .portfolio-box-caption .project-name, #portfolio .container-xxl .portfolio-box .portfolio-box-caption .project-name {
+#news .container-fluid .news-box .news-box-caption .project-name, #news .container-sm .news-box .news-box-caption .project-name, #news .container-md .news-box .news-box-caption .project-name, #news .container-lg .news-box .news-box-caption .project-name, #news .container-xl .news-box .news-box-caption .project-name, #news .container-xxl .news-box .news-box-caption .project-name {
   font-size: 1.2rem;
 }
-#portfolio .container-fluid .portfolio-box:hover .portfolio-box-caption, #portfolio .container-sm .portfolio-box:hover .portfolio-box-caption, #portfolio .container-md .portfolio-box:hover .portfolio-box-caption, #portfolio .container-lg .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xl .portfolio-box:hover .portfolio-box-caption, #portfolio .container-xxl .portfolio-box:hover .portfolio-box-caption {
+#news .container-fluid .news-box:hover .news-box-caption, #news .container-sm .news-box:hover .news-box-caption, #news .container-md .news-box:hover .news-box-caption, #news .container-lg .news-box:hover .news-box-caption, #news .container-xl .news-box:hover .news-box-caption, #news .container-xxl .news-box:hover .news-box-caption {
   opacity: 1;
 }
