@@ -11456,3 +11456,9 @@ header.masthead h1, header.masthead .h1 {
 #news .container-fluid .news-box:hover .news-box-caption, #news .container-sm .news-box:hover .news-box-caption, #news .container-md .news-box:hover .news-box-caption, #news .container-lg .news-box:hover .news-box-caption, #news .container-xl .news-box:hover .news-box-caption, #news .container-xxl .news-box:hover .news-box-caption {
   opacity: 1;
 }
+
+.text-news {
+  justify-content: center;
+  text-align: center;
+  display: block;
+}
