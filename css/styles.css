@@ -11908,3 +11908,9 @@ header.masthead .h1 {
   margin-bottom: 35px;
 }
 
+@media only screen and (max-width: 1200px) {
+  body {
+    padding-top: 65px;
+  }
+}
+
